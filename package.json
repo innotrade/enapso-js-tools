@@ -1,6 +1,6 @@
 {
   "name": "enapso-js-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Enapso JavaScript Tools",
   "main": "index.js",
   "directories": {
