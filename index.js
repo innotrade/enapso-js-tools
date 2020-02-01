@@ -3,11 +3,14 @@
 // Author: Alexander Schulze
 
 const
-	{ EnapsoJSTools, delay } = require('./lib/js-tools')
+	{ EnapsoJSTools, EnapsoJSONTools,
+		delay, jsonWalker } = require('./lib/js-tools')
 	;
 
 module.exports = {
 	EnapsoJSTools,
-	delay
+	EnapsoJSONTools,
+	delay,
+	jsonWalker
 };
 
