@@ -3,9 +3,11 @@
 // Author: Alexander Schulze
 
 const
-    enjstools = require('./lib/js-tools')
-    ;
+	{ EnapsoJSTools, delay } = require('./lib/js-tools')
+	;
 
 module.exports = {
-    enjstools
-}
+	EnapsoJSTools,
+	delay
+};
+
