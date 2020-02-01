@@ -15,9 +15,11 @@ const
 ## Convenience functions
 
 ### delay
+If you want to provide certain convenience methods directly in the global namespace of your app like this:
 ```javascript
 global.delay = EnapsoJSTools.delay;
 ```
+you can use them easily like this: 
 ```javascript
 // async delay function
 console.log('Delay 1000ms, started: ' + new Date().toISOString());
