@@ -11,6 +11,12 @@ module.exports = {
 	EnapsoJSTools,
 	EnapsoJSONTools,
 	delay,
-	jsonWalker
+	jsonWalker,
+	enjstools: {
+		EnapsoJSTools,
+		EnapsoJSONTools,
+		emptyFunction: EnapsoJSTools.emptyFunction,
+		delay: EnapsoJSTools.delay
+	}
 };
 
