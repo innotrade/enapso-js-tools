@@ -1,6 +1,6 @@
 {
   "name": "@innotrade/enapso-js-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Enapso JavaScript Toolbox",
   "main": "index.js",
   "directories": {
