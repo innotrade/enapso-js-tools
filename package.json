@@ -1,29 +1,28 @@
 {
-  "name": "@innotrade/enapso-js-tools",
-  "version": "1.0.3",
-  "description": "Enapso JavaScript Toolbox",
-  "main": "index.js",
-  "directories": {
-    "doc": "doc",
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/innotrade/enapso-js-tools.git"
-  },
-  "keywords": [
-    "Enapso",
-    "JavaScript",
-    "Tools",
-    "Toolbox"
-  ],
-  "author": "Alexander Schulze",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/innotrade/enapso-js-tools/issues"
-  },
-  "homepage": "https://github.com/innotrade/enapso-js-tools#readme"
+    "name": "@innotrade/enapso-js-tools",
+    "version": "1.1.0",
+    "description": "ENAPSO JavaScript Toolbox",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/innotrade/enapso-js-tools.git"
+    },
+    "keywords": [
+        "enapso",
+        "javascript",
+        "tools",
+        "toolbox"
+    ],
+    "author": "Alexander Schulze",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/innotrade/enapso-js-tools/issues"
+    },
+    "homepage": "https://github.com/innotrade/enapso-js-tools#readme"
 }

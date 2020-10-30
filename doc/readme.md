@@ -1,3 +1,0 @@
-# Enapso JavaScript Tools
-
-pending ...
