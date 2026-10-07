@@ -1,5 +1,5 @@
-// Innotrade Enapso JavaScript Tools - Module Demo
-// (C) Copyright 2019-2020 Innotrade GmbH, Herzogenrath, NRW, Germany
+// INNOTRADE ENAPSO JavaScript Tools - Module Demo
+// (C) Copyright 2019-2026 INNOTRADE GmbH, Herzogenrath, NRW, Germany
 // Authors: Alexander Schulze
 
 // requires the Enapso JS Tools package
